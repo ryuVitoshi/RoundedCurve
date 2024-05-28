@@ -1,4 +1,30 @@
 {
+  "name": "@ryuVitoshi/RoundedCurve",
+  "version": "1.0.0",
+  "description": "A Three.js plugin that implements rounded curves.",
+  "main": "RoundedCurve.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryuVitoshi/RoundedCurve.git"
+  },
+  "keywords": [
+    "three-js",
+    "threejs",
+    "three",
+    "rounded",
+    "curve",
+    "webgl",
+    "threejs-plugin"
+  ],
+  "author": "Rud Viktor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryuVitoshi/RoundedCurve/issues"
+  },
+  "homepage": "https://github.com/ryuVitoshi/RoundedCurve#readme",
+  "exports": {
+      ".": "./RoundedCurve.js"
+  },
   "dependencies": {
     "three": "^0.164.1"
   },
