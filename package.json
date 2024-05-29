@@ -1,5 +1,5 @@
 {
-  "name": "@ryuVitoshi/RoundedCurve",
+  "name": "@ryuvitoshi/roundedcurve",
   "version": "1.0.0",
   "description": "A Three.js plugin that implements rounded curves.",
   "main": "RoundedCurve.js",
